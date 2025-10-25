@@ -1,0 +1,507 @@
+timestamp,sender,subject,avg_prob,is_spam,reason
+1760892656.1755896,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760892656.8821092,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760892658.3426151,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760892659.0671449,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760892660.4348886,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760892661.1317568,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760892661.799045,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760892662.49727,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760892663.1875398,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760892663.9146886,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760892664.6352293,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760892665.2921078,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760892665.9536061,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760892666.6098995,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760892667.339911,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760892668.0696273,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760892668.923278,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760892669.6020043,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760892670.2839744,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760892671.7435496,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760892732.8473608,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760892733.5626554,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760892734.2450442,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760892734.926913,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760892735.62677,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760892736.3255072,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760892737.0062854,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760892737.7286909,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760892738.4028006,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760892739.1329303,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760892739.8449183,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760892740.5094883,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760892741.1689,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760892741.844698,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760892742.5667243,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760892743.2859244,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760892743.9453585,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760892744.6061084,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760892745.2825694,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760892746.0034647,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760892807.0412445,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760892807.7248302,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760892808.3987415,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760892809.103226,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760892809.7843013,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760892810.4741955,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760892811.1483147,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760892811.8231382,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760892812.4539013,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760892813.1400645,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760892813.8401587,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760892814.4761813,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760892815.1407685,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760892815.7747495,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760892816.530618,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760892817.2466595,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760892817.9374325,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760892818.5977619,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760892819.273812,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760892819.9835868,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760892881.0499725,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760892881.7752392,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760892883.1699426,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760892883.8690372,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760892884.5588224,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760892885.265707,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760892885.9612281,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760892886.6611776,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760892887.329021,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760892888.024109,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760892888.7326996,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760892889.3918688,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760892890.0562224,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760892890.789983,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760892891.5833797,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760892892.3466592,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760892893.064051,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760892893.7902117,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760892894.4435327,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760892895.172049,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760892956.918447,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760892957.6214273,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760892958.3428252,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760892959.0443585,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760892959.73243,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760892960.4026062,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760892961.1137137,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760892961.820483,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760892962.4444628,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760892963.8357358,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760892964.556638,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760892965.2032814,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760892965.8549035,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760892966.5057828,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760892967.26688,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760892967.95266,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760892968.6729283,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760892969.3492045,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760892970.0356724,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760892970.7568524,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893031.8454282,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893032.5372233,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893033.2750475,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893033.9864757,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893034.6628964,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893035.3736918,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893036.944858,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893037.6574168,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893038.3762827,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893039.0866792,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893039.780773,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893040.430611,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893041.0640156,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893041.749562,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893042.5468907,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893043.2736244,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893043.9907937,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893044.6724455,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893045.3250759,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893046.0533295,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893107.1616755,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893107.8839622,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893108.652054,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893109.379137,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893110.0486453,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893110.7401779,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893111.4506261,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893112.1450455,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893112.8026934,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893113.6944711,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893114.410818,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893115.0354092,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893115.668067,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893116.341328,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893117.1274261,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893117.8483267,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893118.6033185,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893119.3059626,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893119.9733589,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893120.664618,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893181.7343976,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893182.4356868,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893183.1391869,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893183.8286057,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893184.4754019,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893185.1686447,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893185.8613803,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893186.5599375,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893187.2310317,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893187.9368396,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893188.7033741,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893189.3845801,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893190.1428545,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893190.8030994,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893191.579657,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893192.2608242,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893192.9631052,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893193.674499,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893194.3712618,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893195.0920396,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893256.2035875,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893256.8890352,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893257.6574388,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893258.3440194,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893259.086531,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893259.7907405,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893260.504968,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893261.242962,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893262.6281536,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893263.3532772,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893264.0144389,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893264.6949983,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893265.3709917,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893266.0538988,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893266.8656263,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893267.5847661,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893268.313816,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893269.0142138,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893269.7386851,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893270.4389575,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893331.4662886,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893332.845964,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893333.527932,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893334.2336676,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893334.9076502,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893335.5722182,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893336.2929757,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893337.022632,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893337.7387471,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893338.4344232,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893339.1455305,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893339.8276575,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893340.5030077,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893341.808379,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893342.5806968,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893343.3080707,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893344.0936165,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893344.785195,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893345.4679966,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893346.1632452,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893407.5103214,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893408.1889892,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893408.861202,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893409.8611166,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893410.497968,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893411.136948,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893411.8259645,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893412.5267143,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893413.1930342,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893413.8545794,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893414.5768816,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893415.2553153,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893415.9054077,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893416.7730994,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893417.6651642,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893418.5035737,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893419.1798744,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893419.8368948,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893420.497473,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893421.207813,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893482.304492,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893483.0324302,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893483.742744,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893484.4416018,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893485.118272,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893485.833724,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893486.566544,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893487.3065596,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893488.0106027,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893488.7303667,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893489.4486217,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893490.129746,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893490.8030012,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893491.4775503,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893492.3693395,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893493.07056,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893493.7915695,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893494.507686,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893495.204405,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893495.9095323,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893557.0063186,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893557.7359269,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893558.457374,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893559.1675036,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893559.8390412,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893560.5858665,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893561.343786,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893562.0735095,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893562.8128505,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893563.5413158,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893564.2580464,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893564.9393387,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893565.6191163,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893566.2965486,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893567.0752022,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893567.8240767,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893568.5476363,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893569.5426612,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893570.2650588,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893570.9815977,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893632.0837417,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893632.8168976,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893633.548087,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893635.023957,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893635.7603254,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893636.4743326,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893637.205283,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893637.9120796,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893638.6180193,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893639.3566058,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893640.072237,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893640.7443652,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893641.4213393,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893642.074873,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893642.910714,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893643.6312358,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893644.3485136,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893645.051819,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893645.694078,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893646.409232,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893707.4501662,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893708.1621156,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893708.8382025,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893709.5573466,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893710.2063863,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893710.8850596,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893711.6346922,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893712.3116672,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893713.0692916,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893713.7908623,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893714.4774475,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893715.1131146,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893715.769082,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893716.4036722,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893717.1576715,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893717.8515022,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893718.559981,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893719.233862,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893719.90369,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893720.625094,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893781.677321,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893782.5223367,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893783.2001233,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893783.8826094,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893784.5555391,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893785.2354453,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893785.925164,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893786.5982013,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893787.2838326,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893787.9650643,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893788.6299613,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893789.2907796,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893789.9304123,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893790.5542183,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893791.288867,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893792.654712,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893793.3312297,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893793.9848752,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893794.6436667,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893795.3254054,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893856.3939319,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893857.1092947,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893857.8037531,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893858.4943562,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893859.1605916,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893859.8580287,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893860.528108,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893861.2282195,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893861.887909,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893862.568279,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893863.2581975,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893863.89595,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893864.5482202,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893865.1814597,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893865.9458368,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893866.6324546,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893867.3186269,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893867.9854968,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893868.6668577,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893869.3432655,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760893930.3830287,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760893931.0888698,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760893931.7593987,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760893932.4696925,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760893933.144174,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760893934.5174537,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760893935.1757574,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760893935.8608143,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760893936.5079644,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760893937.1839123,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760893937.878057,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760893938.543107,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760893939.1926346,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760893939.8356822,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760893940.5747206,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760893941.2750232,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760893941.9522202,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760893942.617957,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760893943.6636732,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760893944.3419032,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760894005.4384372,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760894006.135734,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760894006.822642,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760894007.5270605,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760894008.1812658,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760894008.8512785,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760894009.534438,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760894010.288876,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760894010.9472444,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760894011.6227775,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760894012.3144474,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760894012.9625409,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760894013.609843,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760894014.2984567,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760894015.0440474,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760894015.7385561,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760894016.4770317,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760894017.1372397,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760894017.800689,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760894018.4745739,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760894079.7595615,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760894080.5177472,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760894081.260951,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760894081.959224,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760894082.6354866,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760894083.3563945,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760894084.0933068,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760894084.7950206,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760894085.5063906,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760894086.221501,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760894086.9398596,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760894087.7255657,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760894088.395824,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760894089.0737164,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760894089.8800492,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760894090.6566632,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760894092.0444694,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760894092.7395384,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760894093.4328492,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760894094.1264064,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760894155.2462966,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760894156.0490303,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760894156.7573504,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760894157.5223029,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760894158.2934644,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760894159.0031993,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760894159.7161012,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760894160.3931236,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760894161.0746524,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760894161.809566,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760894162.526549,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760894163.1758525,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760894163.8577027,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760894164.4978874,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760894165.2792907,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760894166.0241792,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760894166.7392406,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760894167.423956,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760894168.1287649,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760894168.830844,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold
+1760894229.9520252,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New announcement: "Remainder 
+Please update your…",0.2133,HAM,not enough votes and avg below ensemble threshold
+1760894231.4275217,WILSON PINTO <wilsonpinto@sfit.ac.in>,Registration for Google Cloud Generative AI Virtual Internship Program is now open till 31st October,0.1557,HAM,not enough votes and avg below ensemble threshold
+1760894232.1776462,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "DMMM Books and reference material ",0.2124,HAM,not enough votes and avg below ensemble threshold
+1760894232.8705597,"SHWETA SANKHE (Classroom)" <no-reply@classroom.google.com>,New announcement: "
+…",0.2323,HAM,not enough votes and avg below ensemble threshold
+1760894233.5513656,SAMIKSHA BOKADE_222010 <samikshabokade11@student.sfit.ac.in>,,0.4844,HAM,not enough votes and avg below ensemble threshold
+1760894234.266911,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "ISE3 link…",0.2610,HAM,not enough votes and avg below ensemble threshold
+1760894234.9777203,MetaMask Developer <donotreply@infura.io>,Welcome to MetaMask Developer,0.5011,HAM,not enough votes and avg below ensemble threshold
+1760894235.6685128,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,Due tomorrow: "Assignment Question bank for Module 04-06 ",0.1890,HAM,not enough votes and avg below ensemble threshold
+1760894236.3489857,Bhoomi Barbole <barbolebhoomi@gmail.com>,you've won free cash prize,0.5500,HAM,not enough votes and avg below ensemble threshold
+1760894237.0944955,Windsurf Team <updates@windsurf.ai>,Sonnet 4.5 Promo Pricing Update,0.3109,HAM,not enough votes and avg below ensemble threshold
+1760894237.7895188,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New material: "ISE and MSE marks as on 15-10-2025 ",0.2483,HAM,not enough votes and avg below ensemble threshold
+1760894238.435621,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,I am sharing 'RESEARCH PAPER (1)' with you,0.4846,HAM,not enough votes and avg below ensemble threshold
+1760894239.1290786,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,,0.4618,HAM,not enough votes and avg below ensemble threshold
+1760894239.7908893,BHOOMI BARBOLE_222006 <barbolebhoomi@student.sfit.ac.in>,Document from Bhoomi Barbole,0.6688,SPAM,avg_prob >= ensemble_threshold (0.669 >= 0.6)
+1760894240.5413811,Grammarly Insights <hello@mail.grammarly.com>,📈 See your writing wins + Pro for 50% off!,0.4370,HAM,not enough votes and avg below ensemble threshold
+1760894241.2606325,WILSON PINTO <wilsonpinto@sfit.ac.in>,Reminder regarding :AI Future with the Google Cloud Generative AI Virtual Internship Program: the link for the program and the schedule is attached,0.1889,HAM,not enough votes and avg below ensemble threshold
+1760894241.9420958,Docker <no-reply@docker.com>,Key insights from the 2024 Stack Overflow Developer Survey,0.3133,HAM,not enough votes and avg below ensemble threshold
+1760894242.6244917,"PRIYA CHAUDHARI (Classroom)" <no-reply@classroom.google.com>,New assignment: "ISE2_Quiz2",0.2533,HAM,not enough votes and avg below ensemble threshold
+1760894243.3139195,"JAYASHRI MITTAL (Classroom)" <no-reply@classroom.google.com>,New announcement: "Dear students,
+Note that A3 size poster…",0.3129,HAM,not enough votes and avg below ensemble threshold
+1760894244.0067933,"CHELAMALLU HARIPRASAD (Classroom)" <no-reply@classroom.google.com>,New assignment: "module 04, 05 and 06 ",0.2088,HAM,not enough votes and avg below ensemble threshold

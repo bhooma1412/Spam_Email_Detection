@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+joblib
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+beautifulsoup4
+html5lib
+python-dotenv
+tqdm
+transformers          # only if you want a transformer baseline
+torch                 # only if using transformers on CPU/GPU

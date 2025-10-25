@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Model Accuracy - Spam Email Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='accuracy.css') }}">
+</head>
+<body class="dark-bg">
+    <div class="overlay"></div>
+
+<nav>
+    <h1><b>Spam Email Detection</b></h1>
+</nav>
+
+<section class="content">
+    <h2 class="page-title">📊 Accuracy of Each Model</h2>
+    <p class="page-subtitle">Compare individual models and combined performance at a glance</p>
+    <img src="data:image/png;base64,{{ accuracy_image }}" alt="Model Accuracy Chart" class="chart-img">
+
+    <h2 class="section-title">🧮 Confusion Matrices</h2>
+    <div class="metrics-grid">
+        {% for model, cm_img in cm_images.items() %}
+            <div class="card">
+                <h3>{{ model }}</h3>
+                <img src="data:image/png;base64,{{ cm_img }}" alt="{{ model }} Confusion Matrix" class="chart-img">
+            </div>
+        {% endfor %}
+    </div>
+
+    <h2 class="section-title">📈 Precision, Recall, F1-Score</h2>
+    <img src="data:image/png;base64,{{ metrics_image }}" alt="Precision Recall F1" class="chart-img">
+    <br>
+    <button onclick="window.location.href='/dashboard'" class="btn-back">⬅ Back to Dashboard</button>
+</section>
+
+</body>
+</html>

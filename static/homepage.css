@@ -1,0 +1,179 @@
+body {
+margin: 0;
+padding: 0;
+font-family: "Georgia", serif;
+color: white;
+background: url("images/spam1.jpeg") no-repeat center center fixed;
+background-size: cover;
+position: relative;
+overflow-x: hidden;
+}
+
+/* Black overlay for readability */
+.overlay {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.65);
+z-index: 0;
+pointer-events: none;
+}
+
+/* Ensure content appears above the overlay */
+nav, .main-section {
+position: relative;
+z-index: 1;
+}
+
+nav {
+background-color: rgba(0, 0, 0, 0.8);
+padding: 6px 10px;
+text-align: center;
+color: #ff5733;
+font-size: 18px;
+letter-spacing: 0.5px;
+box-shadow: 0 1px 3px rgba(255, 87, 51, 0.35);
+}
+
+.main-section {
+text-align: center;
+margin-top: 40px;
+}
+
+.tagline-container {
+margin: 40px 0;
+}
+
+.animated-text {
+font-size: 26px;
+color: #ffffff;
+animation: fadeInMove 3s ease-in-out infinite alternate;
+}
+
+@keyframes fadeInMove {
+0% {
+opacity: 0.3;
+transform: translateY(10px);
+}
+100% {
+opacity: 1;
+transform: translateY(-10px);
+}
+}
+
+.content-container {
+display: flex;
+justify-content: space-around;
+align-items: stretch;
+flex-wrap: wrap;
+margin: 100px auto;
+width: 85%;
+gap: 24px;
+}
+
+.how-to, .link-section {
+background-color: rgba(0, 0, 0, 0.6);
+border: 1px solid rgba(255, 255, 255, 0.2);
+padding: 25px;
+border-radius: 12px;
+width: 40%;
+min-width: 300px;
+box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+/* Equal sizing */
+flex: 1 1 40%;
+min-height: 200px;
+display: flex;
+flex-direction: column;
+justify-content: space-evenly;
+/* Animations */
+animation: cardIn 0.8s ease both;
+transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+backdrop-filter: blur(2px);
+}
+
+/* Stagger entrance */
+.how-to { animation-delay: 0.1s; }
+.link-section { animation-delay: 0.25s; }
+
+@keyframes cardIn {
+ 0% { opacity: 0; transform: translateY(12px) scale(0.99); }
+ 100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.how-to:hover, .link-section:hover {
+ transform: translateY(-6px) scale(1.01);
+ box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 18px rgba(255, 87, 51, 0.25);
+ border-color: rgba(255, 87, 51, 0.35);
+}
+
+.how-to h3, .link-section h3 {
+color: #ff5733;
+font-size: 22px;
+margin: 0 0 2px;
+ position: relative;
+}
+
+/* Animated underline for section headings */
+.how-to h3::after, .link-section h3::after {
+ content: "";
+ position: absolute;
+ left: 0;
+ bottom: -4px;
+ height: 2px;
+ width: 0;
+ background: linear-gradient(90deg, #ff784f, #ff5733);
+ transition: width 0.4s ease;
+}
+.how-to:hover h3::after, .link-section:hover h3::after {
+ width: 60%;
+}
+
+.how-to ul {
+list-style: none;
+text-align: left;
+padding: 0;
+line-height: 1.8em;
+margin: 0;
+}
+
+.how-to li {
+font-size: 17px;
+}
+
+.link-section p {
+font-size: 17px;
+margin-bottom: 12px;
+margin-top: 4px;
+}
+
+.btn-primary {
+background-color: #ff5733;
+color: white;
+border: none;
+border-radius: 6px;
+padding: 12px 25px;
+font-size: 18px;
+cursor: pointer;
+transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease;
+ align-self: flex-start;
+}
+
+.btn-primary:hover {
+background-color: #ff784f;
+ transform: translateY(-2px);
+ box-shadow: 0 6px 16px rgba(255, 120, 79, 0.35);
+}
+
+/* Center the button within the link-section card */
+.link-section .btn-primary {
+ margin-top: 12px;
+ align-self: center;
+}
+
+/* Nav title subtle glow */
+nav h1 {
+ margin: 6px 0;
+ text-shadow: 0 0 6px rgba(255, 87, 51, 0.35);
+}

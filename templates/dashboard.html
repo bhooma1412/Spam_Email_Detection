@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard - Spam Email Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='dashboard.css') }}">
+    <script>
+        // Show spinner on page load for button clicks
+        function showSpinner() {
+            document.getElementById('spinner-overlay').style.display = 'flex';
+        }
+    </script>
+</head>
+<body class="dark-bg">
+    <div class="overlay"></div>
+
+<nav>
+    <h1><b>Spam Email Detection</b></h1>
+</nav>
+
+<!-- Spinner overlay -->
+<div id="spinner-overlay">
+    <div class="spinner"></div>
+</div>
+
+<section class="content">
+    <h2 class="status-title">✅ Gmail Linked Successfully!</h2>
+    <p class="status-subtitle">You can now check your email status below.</p>
+
+    <div class="buttons">
+        <button onclick="showSpinner(); window.location.href='/check_emails'" class="btn-primary">Check your Email Status</button>
+        <button onclick="window.location.href='/accuracy'" class="btn-secondary">Check Accuracy Of Model</button>
+        <button onclick="window.location.href='/link_another'" class="btn-secondary">Want to link Another Account?</button>
+    </div>
+
+    <div class="feature-grid">
+        <div class="card">
+            <h3>What you can do</h3>
+            <ul>
+                <li>Classify unread emails as SPAM or HAM</li>
+                <li>Review model accuracy and performance</li>
+                <li>Link another Gmail account securely</li>
+            </ul>
+        </div>
+        <div class="card">
+            <h3>Tips for better results</h3>
+            <ul>
+                <li>Run checks regularly to stay ahead of spam</li>
+                <li>Keep your inbox organized by archiving spam</li>
+                <li>Use multiple accounts to compare behavior</li>
+            </ul>
+        </div>
+        <div class="card">
+            <h3>Next steps</h3>
+            <ul>
+                <li>Check your email status now</li>
+                <li>Validate the predictions</li>
+                <li>Explore accuracy insights</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>

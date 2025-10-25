@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Email Results - Spam Email Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='results.css') }}">
+    <script>
+        // Show spinner on page load for fetch/refresh
+        function showSpinner() {
+            document.getElementById('spinner-overlay').style.display = 'flex';
+        }
+        function hideSpinner() {
+            document.getElementById('spinner-overlay').style.display = 'none';
+        }
+
+        // Attach spinner to Refresh button
+        function refreshEmails() {
+            showSpinner();
+            window.location.href = '/refresh_emails';
+        }
+
+        // Attach spinner to page load
+        window.onload = hideSpinner;
+    </script>
+</head>
+<body class="dark-bg">
+    <div class="overlay"></div>
+
+<nav>
+    <h1><b>Spam Email Detection</b></h1>
+</nav>
+
+<!-- Spinner overlay -->
+<div id="spinner-overlay">
+    <div class="spinner"></div>
+</div>
+
+<section class="content">
+    <h2 class="page-title">📧 Your Email Results</h2>
+    <p class="page-subtitle">Latest classifications with quick insights below</p>
+
+    {% if results %}
+    <div class="table-container">
+        <table>
+            <thead>
+                <tr>
+                    <th>From</th>
+                    <th>Subject</th>
+                    <th>Snippet</th>
+                    <th>Timings</th>
+                    <th>Probability</th>
+                    <th>Classification</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for r in results %}
+                <tr class="{{ 'spam' if r.is_spam == 'SPAM' else 'ham' }}">
+                    <td>{{ r.from }}</td>
+                    <td>{{ r.subject }}</td>
+                    <td>{{ r.snippet }}</td>
+                    <td>{{ r.timings }}</td>
+                    <td>{{ r.prob }}</td>
+                    <td>{{ r.is_spam }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Buttons below table -->
+    <div class="actions">
+        <button onclick="refreshEmails()" class="btn-refresh">🔄 Refresh Emails</button>
+        <button onclick="window.location.href='/dashboard'" class="btn-back">⬅ Back to Dashboard</button>
+    </div>
+
+    {% else %}
+        <p>No new emails found.</p>
+    {% endif %}
+</section>
+
+</body>
+</html>

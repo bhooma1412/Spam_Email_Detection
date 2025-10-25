@@ -1,0 +1,189 @@
+body.dark-bg {
+    margin: 0;
+    color: white;
+    font-family: "Georgia", serif;
+    text-align: center;
+    background: url("images/spam1.jpeg") no-repeat center center fixed;
+    background-size: cover;
+    position: relative;
+    min-height: 100vh;
+}
+
+/* Overlay same as homepage */
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.65);
+    z-index: 0;
+    pointer-events: none;
+}
+
+/* Ensure content is above overlay */
+nav, .content { position: relative; z-index: 1; }
+
+nav {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 6px 10px;
+    color: #ff5733;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    box-shadow: 0 1px 3px rgba(255, 87, 51, 0.35);
+}
+
+.content {
+    padding: 32px 20px;
+    min-height: calc(100vh - 54px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* Status title/subtitle animations */
+.status-title {
+    font-size: 28px;
+    color: #ffffff;
+    animation: titleIn 0.8s ease both;
+    text-shadow: 0 0 6px rgba(255, 87, 51, 0.35);
+}
+.status-subtitle {
+    font-size: 18px;
+    opacity: 0.9;
+    animation: fadeUp 0.8s ease 0.15s both;
+}
+
+@keyframes titleIn {
+    0% { opacity: 0; transform: translateY(8px) scale(0.98); }
+    100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+@keyframes fadeUp {
+    0% { opacity: 0; transform: translateY(6px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+.buttons {
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary, .btn-secondary {
+    padding: 12px 24px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease, transform 0.2s ease, box-shadow 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-primary {
+    background-color: #ff5733;
+    color: white;
+    border: none;
+}
+
+.btn-secondary {
+    background-color: #33c3ff;
+    color: #0b1a22;
+    border: none;
+}
+
+/* Hover effects aligned with homepage */
+.btn-primary:hover {
+    background-color: #ff784f;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(255, 120, 79, 0.35);
+}
+.btn-secondary:hover {
+    background-color: #55d1ff;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(51, 195, 255, 0.35);
+}
+
+/* Feature grid to enrich dashboard */
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+    margin-top: 28px;
+    width: min(100%, 1000px);
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 12px;
+    padding: 20px;
+    text-align: left;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 0.08);
+    animation: cardIn 0.8s ease both;
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+    backdrop-filter: blur(2px);
+}
+.card:nth-child(1) { animation-delay: 0.05s; }
+.card:nth-child(2) { animation-delay: 0.15s; }
+.card:nth-child(3) { animation-delay: 0.25s; }
+
+.card:hover {
+    transform: translateY(-6px) scale(1.01);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35), 0 0 18px rgba(255, 87, 51, 0.2);
+    border-color: rgba(255, 87, 51, 0.3);
+}
+
+.card h3 {
+    color: #ff5733;
+    margin: 0 0 8px;
+    font-size: 20px;
+    position: relative;
+}
+.card h3::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    height: 2px;
+    width: 40%;
+    background: linear-gradient(90deg, #ff784f, #ff5733);
+}
+
+.card ul {
+    margin: 12px 0 0;
+    padding-left: 18px;
+    line-height: 1.7em;
+}
+.card li { opacity: 0.95; }
+
+/* Spinner overlay (same as results.css) */
+#spinner-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.7);
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+}
+
+.spinner {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #ff5733;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}

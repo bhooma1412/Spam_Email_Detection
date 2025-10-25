@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Spam Email Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='homepage.css') }}">
+</head>
+<body>
+    <div class="overlay"></div>
+
+
+<nav>
+    <h1><b>Spam Email Detection</b></h1>
+</nav>
+
+<section class="main-section">
+    <div class="tagline-container">
+        <h2 class="animated-text">Detect spam emails before they reach your inbox 📧</h2>
+    </div>
+
+    <div class="content-container">
+        <div class="how-to">
+            <h3>How to Use:</h3>
+            <ul>
+                <li>1️⃣ Click the button to link your Gmail account.</li>
+                <li>2️⃣ Allow access so the system can read unread messages.</li>
+                <li>3️⃣ View your inbox classified as SPAM or HAM.</li>
+                <li>4️⃣ Check model accuracy anytime.</li>
+            </ul>
+        </div>
+
+        <div class="link-section">
+            <h3>Get Started 🚀</h3>
+            <p>Connect your Gmail securely to analyze incoming emails.</p>
+            <button onclick="window.location.href='/link_gmail'" class="btn-primary">Link your Gmail Account</button>
+        </div>
+    </div>
+</section>
+
+
+</body>
+</html>
